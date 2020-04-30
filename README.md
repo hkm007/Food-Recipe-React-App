@@ -1,9 +1,12 @@
 # A React APP that for knowing Food recipes alongwith its associated Calories
 
 ### 1. To use:
-1. Install node.js
-2. To install React globally (remove -g if locally)
+   Install node.js
+   
+To install React globally (remove -g if locally)
+    
     npx install create-react-app -g
+    
 or 
     sudo npx install create-react-app -g
 
