@@ -1,4 +1,4 @@
-# A React APP that for knowing Food recipes alongwith its associated Calories
+# A React APP for providing Food recipes alongwith its associated Calories, images and many more
 
 ### 1. To use:
    Install node.js
