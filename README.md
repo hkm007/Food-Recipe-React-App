@@ -15,7 +15,7 @@ or
     
     ./recipe_app
 
-### 3. Run :
+### 3. To Run the app :
     
     npm start
 or 
@@ -24,4 +24,4 @@ or
 
 ### 3. The website will run the development server in your system , Tadah!
 
-## 4. It uses an API which user can call 5 get requests/min 
+### 4. It uses an API which user can call 5 get requests/min 
