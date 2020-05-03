@@ -2,6 +2,8 @@ import React,{useEffect,useState} from 'react';
 import './App.css';
 import Recipe from './Recipe'
 import Info from './Info'
+import Navbar from './components/Navbar'
+
 const App = ()=>{
 
   const [id,key] = Info();
@@ -32,6 +34,7 @@ const App = ()=>{
 
   return (
     <div className = "App">
+      <Navbar />
       <form onSubmit={getSearch} className = "search-form">
         <input className = "search-bar" type = "text" value = {search} onChange = {updateSearch} placeholder = "Search your food here ..."/>
         <button className = "search-button" type = "submit">Search</button>
